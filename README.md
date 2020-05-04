@@ -8,6 +8,8 @@ Open the Settings menu :
 
 Define the Application Insights Application Id and the API-key and the max rows returned from the query.
 
+![Select settings](WindowExample.png)
+
 ![Settings](SettingsExample.png)
 
 Then you can query the trace logs from the AI. You must define date from which you querying the logs and the event type. Then pressing the query button will fetch the logs from AI.
