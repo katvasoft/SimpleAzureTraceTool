@@ -2,6 +2,14 @@
 
 This is really simple Azure Application Insight (AI) query tool. With this tool you can query trace logs from the application insights. All you need is the Application Insights Application Id and the API key.
 
+You can find the binaries here:
+
+https://1drv.ms/u/s!AtV6YEMzuD69htUmwRmqFFyGPyALag?e=uT1qV6
+
+There two zip-files. One contains everything needed to run the application and consist only the application binaries. If you have .NET Core installed the only the application binaries is needed.
+
+After unzipping the file, then run : AzureAppInsightsSimpleQuery.exe and you ready to go.
+
 ![Azure example](AzureExample.png)
 
 Open the Settings menu :
